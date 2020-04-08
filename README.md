@@ -1,1 +1,1 @@
-# simple-pomodoro-timer
+# simple-web-pomodoro-timer
